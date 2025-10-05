@@ -12,5 +12,5 @@
             ]
         }
     },
-    "postCreateCommand": "uv pip install fastapi"
+    "postCreateCommand": "uv pip install fastapi transformers datasets torch torchvision torchaudio accelerate"
 }
